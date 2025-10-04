@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sabiq</h1>
 <h3 align="center">💻 MSc AI student | Full-stack tinkerer & Flutter fanboy | Turning coffee ☕ into code, bugs 🐛 into features, and ideas 💡 into products | 🌍 From Sri Lanka ➝ London ➝ Malaysia ➝ The Cloud</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiqsabry&label=Profile%20views&color=0e75b6&style=flat" alt="sabiqsabry" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sabiqsabryy" target="blank"><img src="https://img.shields.io/twitter/follow/sabiqsabryy?logo=twitter&style=for-the-badge" alt="sabiqsabryy" /></a> </p>
-
 - 📫 How to reach me **sabiqsabry48@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16H0xs452taoXg9p7JWRZu1YhzAdoXf11/view?usp=sharing](https://drive.google.com/file/d/16H0xs452taoXg9p7JWRZu1YhzAdoXf11/view?usp=sharing)
