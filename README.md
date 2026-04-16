@@ -1,22 +1,154 @@
-<h1 align="center">Hi there 👋, I'm Sabiq</h1>
-<h3 align="center">💻 MSc AI student | Full-stack tinkerer & Flutter fanboy | Turning coffee ☕ into code, bugs 🐛 into features, and ideas 💡 into products | 🌍 From Sri Lanka ➝ London ➝ Malaysia ➝ The Cloud</h3>
+<h1 align="center">Sabiq Sabry</h1>
 
-- 📫 How to reach me **sabiqsabry48@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16H0xs452taoXg9p7JWRZu1YhzAdoXf11/view?usp=sharing](https://drive.google.com/file/d/16H0xs452taoXg9p7JWRZu1YhzAdoXf11/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sabiqsabryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabiqsabryy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sabiqsabry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabiqsabry" height="30" width="40" /></a>
-<a href="https://fb.com/sabiqsabry48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabiqsabry48" height="30" width="40" /></a>
-<a href="https://instagram.com/sabiqsabryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabiqsabryy" height="30" width="40" /></a>
+<p align="center">
+  <b>AI Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; MSc Artificial Intelligence</b><br/>
+  Colombo, Sri Lanka &nbsp;·&nbsp;
+  <a href="https://sabiq.dev">sabiq.dev</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/sabiqsabry">linkedin.com/in/sabiqsabry</a> &nbsp;·&nbsp;
+  <a href="mailto:sabiqsabry48@gmail.com">sabiqsabry48@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sabiqsabry"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sabiqsabry" /></a></p><br><br>
+<p align="center">
+  I build things at the intersection of AI and product — from multimodal deep learning systems to full-stack web and mobile applications.<br/>
+  I've worked across startups, agencies, and research, and I'm most at home when a problem requires both engineering rigour and product thinking.<br/><br/>
+  Currently finishing my <b>MSc in Artificial Intelligence</b> at Asia Pacific University, Kuala Lumpur.<br/>
+  Actively looking for <b>AI/ML Engineer</b> and <b>Full-Stack Developer</b> roles.
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiqsabry&show_icons=true&locale=en&layout=compact" alt="sabiqsabry" /></p>
+<br/>
+
+---
+
+<h3>🔨 What I'm Working On</h3>
+
+<p><b>CSEM Clinical Flow</b> — A digital clinic management system for the Centre for Sport and Exercise Medicine, University of Colombo. Multi-role workflow (Secretary → Doctor → Physiotherapist), 5-tier patient packages, appointment calendar, revenue analytics, and a Supabase Pro backend with full RLS.</p>
+
+<p><b>Multimodal Pneumonia Diagnosis</b> <i>(MSc Thesis)</i> — Late fusion deep learning architecture combining chest X-rays (ResNet-18) with structured EMR data for pneumonia classification. Includes Grad-CAM and SHAP explainability, weighted BCE loss for clinical class imbalance handling.</p>
+
+---
+
+<h3>🚀 Selected Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Pash</b></td>
+      <td>AI-powered expense splitting — NLP parses shared bills and allocates costs</td>
+      <td>Next.js, Supabase, Claude AI</td>
+    </tr>
+    <tr>
+      <td><b>Carbon Compass</b></td>
+      <td>Greenwashing detection in corporate sustainability reports</td>
+      <td>Python, NLP, ML</td>
+    </tr>
+    <tr>
+      <td><b>Gedara Rent</b></td>
+      <td>Full-stack property rental platform with auth, booking, and payments</td>
+      <td>Next.js, TypeScript, Prisma, Stripe</td>
+    </tr>
+    <tr>
+      <td><b>Spa Ceylon Bot</b></td>
+      <td>Conversational AI shopping assistant with personalised recommendations</td>
+      <td>Node.js, React, Claude AI</td>
+    </tr>
+    <tr>
+      <td><b>Twitter Sentiment Analysis</b></td>
+      <td>BiLSTM/GRU vs DistilBERT comparison for sentiment classification</td>
+      <td>Python, PyTorch, HuggingFace</td>
+    </tr>
+    <tr>
+      <td><b>BAWT</b></td>
+      <td>NLP model to detect communication patterns in human chat behaviour</td>
+      <td>Python, Jupyter, NLP</td>
+    </tr>
+    <tr>
+      <td><b>Inventory Manager</b></td>
+      <td>Production management system with order tracking and analytics</td>
+      <td>React, TypeScript, Vite</td>
+    </tr>
+    <tr>
+      <td><b>Budget Buddy</b></td>
+      <td>Personal finance tracker with categorised budgets and real-time sync</td>
+      <td>Flutter, Firebase</td>
+    </tr>
+    <tr>
+      <td><b>AlphabetBot</b></td>
+      <td>Industrial robot programmed to draw alphabet letters via motion control</td>
+      <td>ABB RobotStudio, RAPID</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h3>🛠️ Skills</h3>
+
+<p><b>Languages</b> &nbsp; Python · TypeScript · JavaScript · Java · C++ · SQL · MATLAB · Dart · Swift</p>
+<p><b>AI / ML</b> &nbsp; TensorFlow · PyTorch · Scikit-learn · HuggingFace · OpenCV · Pandas · NLP · Computer Vision · Grad-CAM · SHAP</p>
+<p><b>Backend</b> &nbsp; Node.js · Django · Flask · Express · PHP · REST APIs · PostgreSQL · MySQL · MongoDB · Firebase · Supabase</p>
+<p><b>Frontend</b> &nbsp; React · Next.js · Flutter · React Native · SwiftUI · Tailwind CSS</p>
+<p><b>Cloud & DevOps</b> &nbsp; AWS · Azure · GCP · Docker · Supabase Pro · Git</p>
+<p><b>Robotics</b> &nbsp; ROS · ABB RobotStudio · RAPID · Path Planning · Motion Control</p>
+
+---
+
+<h3>💼 Experience</h3>
+
+<p>
+  <b>Senior Web Developer</b> &nbsp;·&nbsp; Tactik AU <i>(Remote, Australia)</i> &nbsp;·&nbsp; 2021 – 2022<br/>
+  Built React + Firebase platforms for 15 startups. Designed data pipelines and reporting frameworks.
+</p>
+
+<p>
+  <b>Senior Web Developer</b> &nbsp;·&nbsp; the Radiant <i>(Colombo)</i> &nbsp;·&nbsp; 2021<br/>
+  Hybrid AWS infrastructure, Python automation for invoicing and contracts — saved 100+ labour hours/month.
+</p>
+
+<p>
+  <b>Junior Web Developer</b> &nbsp;·&nbsp; UniqSolutions <i>(Colombo)</i> &nbsp;·&nbsp; 2020<br/>
+  RESTful APIs in PHP/SQL, IoT-based employee tracker in React Native.
+</p>
+
+<p>
+  <b>Teaching Assistant</b> &nbsp;·&nbsp; Kent Institute <i>(Colombo)</i> &nbsp;·&nbsp; 2017 – 2021<br/>
+  Tutored 40+ students in Computer Science and Mathematics for GCSE examinations.
+</p>
+
+---
+
+<h3>🎓 Education</h3>
+
+<p>
+  <b>MSc Artificial Intelligence</b> &nbsp;·&nbsp; Asia Pacific University, KL &nbsp;·&nbsp; 2024 – 2025 &nbsp;·&nbsp; CGPA 3.4<br/>
+  <b>BSc Computer Science</b> <i>(Upper Second Class Honours)</i> &nbsp;·&nbsp; University of Westminster, London &nbsp;·&nbsp; 2018 – 2023 &nbsp;·&nbsp; GPA 3.6
+</p>
+
+---
+
+<h3>🏆 Awards</h3>
+
+<p>🥉 <b>3rd Place</b> — SLIIT Datathon 2020 <i>(representing UOW)</i></p>
+<p>🥈 <b>Runner's Up</b> — IIT Hackathon 2019</p>
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sabiqsabry&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiqsabry&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>F1 aficionado · Badminton player · Volleyball devotee · Gamer</i></p>
