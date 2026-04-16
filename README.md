@@ -13,7 +13,7 @@
 <p align="center">
   I build things at the intersection of AI and product — from multimodal deep learning systems to full-stack web and mobile applications.<br/>
   I've worked across startups, agencies, and research, and I'm most at home when a problem requires both engineering rigour and product thinking.<br/><br/>
-  Currently finishing my <b>MSc in Artificial Intelligence</b> at Asia Pacific University, Kuala Lumpur.<br/>
+  Holding an <b>MSc in Artificial Intelligence</b> from Asia Pacific University, Kuala Lumpur and a <b>BSc in Computer Science</b> from the University of Westminster, London.<br/>
   Actively looking for <b>AI/ML Engineer</b> and <b>Full-Stack Developer</b> roles.
 </p>
 
@@ -40,11 +40,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>Pash</b></td>
-      <td>AI-powered expense splitting — NLP parses shared bills and allocates costs</td>
-      <td>Next.js, Supabase, Claude AI</td>
-    </tr>
     <tr>
       <td><b>Carbon Compass</b></td>
       <td>Greenwashing detection in corporate sustainability reports</td>
@@ -92,12 +87,58 @@
 
 <h3>🛠️ Skills</h3>
 
-<p><b>Languages</b> &nbsp; Python · TypeScript · JavaScript · Java · C++ · SQL · MATLAB · Dart · Swift</p>
-<p><b>AI / ML</b> &nbsp; TensorFlow · PyTorch · Scikit-learn · HuggingFace · OpenCV · Pandas · NLP · Computer Vision · Grad-CAM · SHAP</p>
-<p><b>Backend</b> &nbsp; Node.js · Django · Flask · Express · PHP · REST APIs · PostgreSQL · MySQL · MongoDB · Firebase · Supabase</p>
-<p><b>Frontend</b> &nbsp; React · Next.js · Flutter · React Native · SwiftUI · Tailwind CSS</p>
-<p><b>Cloud & DevOps</b> &nbsp; AWS · Azure · GCP · Docker · Supabase Pro · Git</p>
-<p><b>Robotics</b> &nbsp; ROS · ABB RobotStudio · RAPID · Path Planning · Motion Control</p>
+<h4>Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+<h4>AI / ML</h4>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+<h4>Backend</h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+<h4>Frontend & Mobile</h4>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+<h4>Cloud & DevOps</h4>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
