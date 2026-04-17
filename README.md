@@ -27,61 +27,7 @@
 
 <p><b>Multimodal Pneumonia Diagnosis</b> <i>(MSc Thesis)</i> — Late fusion deep learning architecture combining chest X-rays (ResNet-18) with structured EMR data for pneumonia classification. Includes Grad-CAM and SHAP explainability, weighted BCE loss for clinical class imbalance handling.</p>
 
----
-
-<h3>🚀 Selected Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Carbon Compass</b></td>
-      <td>Greenwashing detection in corporate sustainability reports</td>
-      <td>Python, NLP, ML</td>
-    </tr>
-    <tr>
-      <td><b>Gedara Rent</b></td>
-      <td>Full-stack property rental platform with auth, booking, and payments</td>
-      <td>Next.js, TypeScript, Prisma, Stripe</td>
-    </tr>
-    <tr>
-      <td><b>Spa Ceylon Bot</b></td>
-      <td>Conversational AI shopping assistant with personalised recommendations</td>
-      <td>Node.js, React, Claude AI</td>
-    </tr>
-    <tr>
-      <td><b>Twitter Sentiment Analysis</b></td>
-      <td>BiLSTM/GRU vs DistilBERT comparison for sentiment classification</td>
-      <td>Python, PyTorch, HuggingFace</td>
-    </tr>
-    <tr>
-      <td><b>BAWT</b></td>
-      <td>NLP model to detect communication patterns in human chat behaviour</td>
-      <td>Python, Jupyter, NLP</td>
-    </tr>
-    <tr>
-      <td><b>Inventory Manager</b></td>
-      <td>Production management system with order tracking and analytics</td>
-      <td>React, TypeScript, Vite</td>
-    </tr>
-    <tr>
-      <td><b>Budget Buddy</b></td>
-      <td>Personal finance tracker with categorised budgets and real-time sync</td>
-      <td>Flutter, Firebase</td>
-    </tr>
-    <tr>
-      <td><b>AlphabetBot</b></td>
-      <td>Industrial robot programmed to draw alphabet letters via motion control</td>
-      <td>ABB RobotStudio, RAPID</td>
-    </tr>
-  </tbody>
-</table>
+<p><b>Photokana</b> — A self-service Korean-style photo booth system (인생네컷) built for deployment in Sri Lanka, priced in LKR. Runs on a Raspberry Pi 5 with a Logitech C920 webcam and DNP RX1HS dye-sub printer. The frontend is a vanilla JS PWA installable on iPad, served directly by Express. Includes a separate admin dashboard at <code>/admin</code> for booth management. (Node.js, Express, SQLite, Sharp)</p>
 
 ---
 
